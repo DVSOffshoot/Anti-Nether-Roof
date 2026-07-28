@@ -43,9 +43,8 @@ A simple Minecraft plugin that keeps players off the Nether roof by detecting pl
 antinetherroof.bypass - Allows players to bypass Nether roof detection
 
 
-https://hangar.papermc.io/SBGOffshoot/AntiNetherRoof
-
-
 
 antinetherroof.reload - Allows players to reload the configuration
 
+
+[Hangar](https://hangar.papermc.io/SBGOffshoot/AntiNetherRoof)
