@@ -1,0 +1,19 @@
+name: AntiNetherRoof
+version: 1.0
+main: com.example.antinetherroof.AntiNetherRoof
+api-version: 1.20
+author: SBGOffshoot
+
+commands:
+  antinetherroof:
+    description: Anti Nether Roof commands
+    usage: /antinetherroof reload
+
+permissions:
+  antinetherroof.bypass:
+    description: Allows players to bypass Nether roof protection
+    default: op
+
+  antinetherroof.reload:
+    description: Allows reloading the config
+    default: op

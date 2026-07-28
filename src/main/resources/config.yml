@@ -1,0 +1,7 @@
+# Punishments: KILL, KICK, TELEPORT, BAN
+
+punishment: KILL
+
+kick-message: "You are not allowed on the Nether roof!"
+
+ban-message: "You have been banned for entering the Nether roof!"
