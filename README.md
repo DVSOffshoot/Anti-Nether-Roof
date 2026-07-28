@@ -47,4 +47,6 @@ antinetherroof.bypass - Allows players to bypass Nether roof detection
 antinetherroof.reload - Allows players to reload the configuration
 
 
+\## Download
+
 [Hangar](https://hangar.papermc.io/SBGOffshoot/AntiNetherRoof)
